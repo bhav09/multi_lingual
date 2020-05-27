@@ -25,6 +25,8 @@ Dependencies :
 Technologies used:
 
 ->Google Translate API
+
 ->Tesseract-ocr API
+
 ->Googel Language Detect API
 

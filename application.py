@@ -40,7 +40,7 @@ def swap():
     to_var.set(lang2)
 
 def detect_lang():
-    #text = detect_entry.get()
+    #text = detect_entry.get() // the section has been jammed for the time being as it has an unsolved bug in it.
     text = 'Hello World'
     print(text)
     #detect_lang_code = detect(text)  #detects language and shows its lang code

@@ -30,7 +30,9 @@ Technologies used:
 
 ->Tesseract-ocr API
 
-->Googel Language Detect API
+->Google Language Detect API
+
+->Speech Detection API
 
 #  Instruction and Guidelines
 
